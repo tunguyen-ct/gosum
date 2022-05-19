@@ -1,5 +1,5 @@
 package gosum
 
-func add(x int, y int) int {
+func Add(x int, y int) int {
 	return x + y
 }
